@@ -7,8 +7,8 @@ if __name__ == "__main__":
 
     transporte1 = Transporte("tren", "15")
     transporte2 = Land("auto", "15", "True")
-    transporte3 = Car("liz", "25", "False", "True")
-    transporte4 = Bicycle("fabiola", "30", "True", "False")
+    transporte3 = Car("laborgini", "25", "False", "True")
+    transporte4 = Bicycle("santosa", "30", "True", "False")
 
     transporteList = [transporte1, transporte2, transporte3, transporte4]
 
